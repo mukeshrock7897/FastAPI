@@ -172,3 +172,15 @@
 | Hosting (Render, Fly.io, AWS) | Production ready platforms      |
 
 ---
+
+## 🔌 16. **Integration**
+
+| Topic                              | Use Case                                |
+| ---------------------------------- | --------------------------------------- |
+| Integration with Streamlit         | FastAPI backend with Streamlit frontend |
+| Integration with LangChain         | FastAPI APIs with LLM chains            |
+| Integration with LangGraph         | Event-driven agents via LangGraph       |
+| Integration with LangSmith         | Tracing, debugging LLM apps             |
+| Integration with Jupyter Notebooks | Use FastAPI in notebooks                |
+| Integration with Databases         | SQLite, Postgres, MongoDB, etc.         |
+| Integration with External APIs     | OpenAI, HuggingFace, etc.               |
